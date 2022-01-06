@@ -1,3 +1,3 @@
-# Drag and drop the folder inside of the "Sketch-Main" folder into your existing Proximity template directory
+# Drag and drop the folder inside of the "Sketch-main" folder into your existing Proximity template directory
 
 ## For Proximity 0.5.4+
